@@ -1,0 +1,16 @@
+body {
+  height: 95vh;
+  width: 95vw;
+  position: fixed;
+  margin: 2.5vh 2.5vw;
+  border-radius: 10px;ß
+}
+
+div.cell {
+  width: 33%;
+  height: 33%;
+  background-color: white;
+  float: left;
+  border-radius: 5px;
+  box-shadow: 0 0 0 1px black;
+}
